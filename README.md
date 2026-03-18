@@ -121,7 +121,7 @@ If you find our paper of this resource helpful, please consider cite:
 | [![Preprint](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms) [![GitHub](https://img.shields.io/badge/GitHub-MLLM--Token--Compression-white?logo=github)](https://github.com/yaolinli/MLLM-Token-Compression) <br> **Towards Efficient Multimodal Large Language Models: A Survey on Token Compression** <br> Linli Yao, Long Xing, Yang Shi, Sida Li, Yuanxin Liu, Yuhao Dong, Yi-Fan Zhang, Lei Li, Qingxiu Dong, Xiaoyi Dong, Qidong Huang, Haotian Wang, Feng Wu, Yuanxing Zhang, Pengfei Wan, Zhouchen Lin, Xu Sun| 26.01.12 | Compression Position & <br> Mechanisim | - |
 | ![PDF](https://img.shields.io/badge/ISCAS-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2508.13460-b31b1b)](https://arxiv.org/abs/2508.13460)<br>**Revisiting MLLM Token Technology through the Lens of Classical Visual Coding** <br> Jinming Liu, Junyan Lin, Yuntao Wei, Kele Shao, Keda Tao, Jianguo Huang, Xudong Yang, Zhibo Chen, Huan Wang, Xin Jin| 25.08.19| Codec & <br> Token Technology | - |
 | ![PDF](https://img.shields.io/badge/TMLR-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2507.20198-b31b1b)](https://arxiv.org/abs/2507.20198v5) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Multimodal--Token--Compression-white?logo=github)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)  <br >**A Survey of Token Compression for Efficient Multimodal Large Language Models** <br> Kele Shao, Keda Tao, Kejia Zhang, Sicheng Feng, Mu Cai, Yuzhang Shang, Haoxuan You, Can Qin, Yang Sui, Huan Wang | 25.07.27 | Modality & <br> Mechanisim | Modality-centric|
-| [![Preprint](https://img.shields.io/badge/arXiv-2505.18227-b31b1b)](https://arxiv.org/abs/2505.18227) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Collection--Token--Reduction-white?logo=github)](https://github.com/ZLKong/Awesome-Collection-Token-Reduction) <br> **Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality** <br> Zhenglun Kong, Yize Li, Fanhu Zeng, Lei Xin, Shvat Messica, Xue Lin, Pu Zhao, Manolis Kellis, Hao Tang, Marinka Zitnik| 25.05.23 | TODO | Compression<br>Beyond Efficiency |
+| [![Preprint](https://img.shields.io/badge/arXiv-2505.18227-b31b1b)](https://arxiv.org/abs/2505.18227) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Collection--Token--Reduction-white?logo=github)](https://github.com/ZLKong/Awesome-Collection-Token-Reduction) <br> **Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality** <br> Zhenglun Kong, Yize Li, Fanhu Zeng, Lei Xin, Shvat Messica, Xue Lin, Pu Zhao, Manolis Kellis, Hao Tang, Marinka Zitnik| 25.05.23 | Compression operation | Compression<br>Beyond Efficiency |
 
 
 
@@ -267,7 +267,7 @@ If you find our paper of this resource helpful, please consider cite:
 
 
 
-<!-- ICML 2025 -->
+<!-- ACL 2025 -->
 <details open>
 <summary><b>ACL 2025 (TODO)</b></summary>
 
@@ -278,6 +278,18 @@ If you find our paper of this resource helpful, please consider cite:
 
 </details>
 
+
+<!-- NAACL 2025 -->
+<details open>
+<summary><b>NAACL 2025</b></summary>
+
+| Title & Authors & Links | Areas | Tags |
+|---|---|---|
+| ![PDF](https://img.shields.io/badge/NAACL-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2503.04982-b31b1b)](https://arxiv.org/abs/2503.04982) <br> **LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression** <br> Souvik Kundu, Anahita Bhiwandiwalla, Sungduk Yu, Phillip Howard, Tiep Le, Sharath Nittur Sridhar, David Cobbley, Hao Kang, Vasudev Lal | ![Area](https://img.shields.io/badge/Area-Image--LLM-6f42c1) | ![Target](https://img.shields.io/badge/Target-Weight-0d9488) ![Target](https://img.shields.io/badge/Target-KV--Cache-0d9488)| 
+| ![PDF](https://img.shields.io/badge/NAACL-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2502.17599-b31b1b)](https://arxiv.org/abs/2502.17599) <br> **MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference** <br> Zhongwei Wan, Hui Shen, Xin Wang, Che Liu, Zheda Mai, Mi Zhang | ![Area](https://img.shields.io/badge/Area-Image--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-TrainingFree-8b5e3c) ![Level](https://img.shields.io/badge/Level-LLM-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Op](https://img.shields.io/badge/Op-Merge-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-KV--Cache-0d9488)| 
+
+
+</details>
 
 
 ## 📄 License <a id="license"></a>
