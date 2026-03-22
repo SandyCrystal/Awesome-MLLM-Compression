@@ -8,6 +8,7 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>
 
 
 <details open>
@@ -23,6 +24,7 @@
 | ![PDF](https://img.shields.io/badge/ACL--findings-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2503.11315-b31b1b)](https://arxiv.org/abs/2503.11315) <br> **MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens** <br> Jeong Hun Yeo, Hyeongseop Rha, Se Jin Park, Yong Man Ro | ![Area](https://img.shields.io/badge/Area-Audio--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Retraining-8b5e3c) ![Level](https://img.shields.io/badge/Level-Encoder-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-Token-0d9488)| 
 
 
+</details>
 
 <details open>
 <summary><b>2024</b></summary>
@@ -31,3 +33,5 @@
 |---|---|---|
 | ![PDF](https://img.shields.io/badge/ICME-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2412.12009-b31b1b)](https://arxiv.org/abs/2412.12009) <br> **SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval** <br> Yueqian Lin, Yuzhe Fu, Jingyang Zhang, Yudong Liu, Jianyi Zhang, Jingwei Sun, Hai "Helen" Li, Yiran Chen | ![Area](https://img.shields.io/badge/Area-Audio--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Retraining-8b5e3c) ![Level](https://img.shields.io/badge/Level-Encoder-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-Token-0d9488)| 
 | ![PDF](https://img.shields.io/badge/Interspeech-2024-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2406.03706-b31b1b)](https://arxiv.org/abs/2406.03706) <br> **Improving Audio Codec-based Zero-Shot Text-to-Speech Synthesis with Multi-Modal Context and Large Language Model** <br> Jinlong Xue, Yayue Deng, Yicheng Han, Yingming Gao, Ya Li | ![Area](https://img.shields.io/badge/Area-Audio--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Retraining-8b5e3c) ![Level](https://img.shields.io/badge/Level-Encoder-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-Token-0d9488)| 
+
+</details>

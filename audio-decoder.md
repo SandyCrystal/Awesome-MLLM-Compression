@@ -5,6 +5,7 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>
 
 
 <details open>
@@ -12,6 +13,7 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>
 
 
 <details open>
@@ -19,6 +21,7 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>
 
 
 <details open>
@@ -26,6 +29,7 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>
 
 
 
@@ -34,3 +38,4 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>

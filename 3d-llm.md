@@ -8,6 +8,8 @@
 | [![Preprint](https://img.shields.io/badge/arXiv-2603.05959-b31b1b)](https://arxiv.org/abs/2603.05959) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/VAISR/OVGGT) <br> **OVGGT: O(1) Constant-Cost Streaming Visual Geometry Transformer** <br> Si-Yu Lu, Po-Ting Chen, Hui-Che Hsu, Sin-Ye Jhong, Wen-Huang Cheng, Yung-Yao Chen | ![Area](https://img.shields.io/badge/Area-3D--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Training--Free-8b5e3c) ![Level](https://img.shields.io/badge/Level-LLM-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Eviction-c2416c) <br> ![Target](https://img.shields.io/badge/Target-KV%20Cache-0d9488) ![Note](https://img.shields.io/badge/Note-Streaming-white)|
 | ![PDF](https://img.shields.io/badge/AAAI-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2511.09883-b31b1b)](https://arxiv.org/abs/2511.09883) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/lihengzhang02/HCC-3D) <br> **HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models** <br> Liheng Zhang, Jin Wang, Hui Li, Bingfeng Zhang, Weifeng Liu | ![Area](https://img.shields.io/badge/Area-3D--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Post--Training-8b5e3c) ![Level](https://img.shields.io/badge/Level-Projector-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Resamp-2f9e44) ![Target](https://img.shields.io/badge/Target-Token-0d9488) |
 
+</details>
+
 
 
 <details open>
@@ -22,4 +24,5 @@
 | ![PDF](https://img.shields.io/badge/TMM-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2501.07819-b31b1b)](https://arxiv.org/abs/2501.07819) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/hmxiong/3UR-LLM) <br> **3UR-LLM: An End-to-End Multimodal Large Language Model for 3D Scene Understanding** <br> Haomiao Xiong, Yunzhi Zhuge, Jiawen Zhu, Lu Zhang, Huchuan Lu | ![Area](https://img.shields.io/badge/Area-3D--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Retraining-8b5e3c) ![Level](https://img.shields.io/badge/Level-Projector-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Resamp-2f9e44) ![Target](https://img.shields.io/badge/Target-Token-0d9488) |
 
 
+</details>
 

@@ -6,6 +6,7 @@
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
 
+</details>
 
 <details open>
 <summary><b>2025</b></summary>
@@ -13,6 +14,7 @@
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
 
+</details>
 
 <details open>
 <summary><b>2024</b></summary>
@@ -20,6 +22,7 @@
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
 
+</details>
 
 <details open>
 <summary><b>2023</b></summary>
@@ -28,9 +31,11 @@
 |---|---|---|
 
 
+</details>
 
 <details open>
 <summary><b>2022</b></summary>
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>

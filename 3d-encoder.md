@@ -6,12 +6,15 @@
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
 
+</details>
+
 
 <details open>
 <summary><b>2025</b></summary>
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>
 
 
 <details open>
@@ -19,6 +22,7 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>
 
 
 <details open>
@@ -26,6 +30,7 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>
 
 
 
@@ -34,3 +39,4 @@
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
+</details>

@@ -117,7 +117,7 @@ If you find our paper of this resource helpful, please consider cite:
     - [Audio Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-decoder.md)
   - 3D
     - [3D Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-encoder.md)
-    - [3D LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-llm.md)
+    - [3D LLM](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-llm.md)
     - [3D Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-decoder.md)
   - Omni
     - [Omni LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/omni-llm.md)
