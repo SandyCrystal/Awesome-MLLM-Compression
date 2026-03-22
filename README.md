@@ -101,7 +101,7 @@ If you find our paper of this resource helpful, please consider cite:
 
 ## 🌟 Libraries <a id="lib"></a>
 
-🔔 Please check out the papers by selecting the sub-area you are interested in. Within each sub-area, papers are organized according to our compression taxonomy. The main page presents all survey papers, together with major conference papers from the past year and recently released papers within the last six months. Note that papers which have already been accepted are excluded from the recent papers.
+🔔 Please check out the papers by selecting the sub-area you are interested in. Within each sub-area, papers are organized according to our compression taxonomy. The main page presents all survey papers, together with major conference (i.e., ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, ACL, EMNLP, NAACL) papers from the past year and recently released papers within the last six months. Note that papers already included in the major conference papers from the past year are excluded from the recent papers.
 
 
 - [Awesome MLLM Compression](#awesome)
@@ -146,8 +146,7 @@ If you find our paper of this resource helpful, please consider cite:
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
-| ![PDF](https://img.shields.io/badge/ICLR-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2602.23699-b31b1b)](https://arxiv.org/abs/2602.23699) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/EIT-NLP/HiDrop) <br> **HiDrop: Hierarchical Vision Token Reduction in MLLMs via Late Injection, Concave Pyramid Pruning, and Early Exit** <br> Hao Wu, Yingqi Fan, Jinyang Dai, Junlong Tong, Yunpu Ma, Xiaoyu Shen | ![Area](https://img.shields.io/badge/Area-Image--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Retraining-8b5e3c)  ![Level](https://img.shields.io/badge/Level-LLM-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Op](https://img.shields.io/badge/Op-Skip-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Depth--wise-c2416c)  <br> ![Target](https://img.shields.io/badge/Target-Token-0d9488) ![Target](https://img.shields.io/badge/Target-Operation-0d9488)|
-| ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2602.23734-b31b1b)](https://arxiv.org/abs/2602.23699) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/EIT-NLP/UTPTrack) <br> **UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking** <br> Hao Wu, Xudong Wang, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen | ![Area](https://img.shields.io/badge/Area-Vision--Encoder-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Retraining-8b5e3c) ![Level](https://img.shields.io/badge/Level-Encoder-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-Token-0d9488)| 
+
 
 
 </details>
@@ -182,8 +181,8 @@ If you find our paper of this resource helpful, please consider cite:
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
-
-
+| [![Preprint](https://img.shields.io/badge/arXiv-2603.05959-b31b1b)](https://arxiv.org/abs/2603.05959) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/VAISR/OVGGT) <br> **OVGGT: O(1) Constant-Cost Streaming Visual Geometry Transformer** <br> Si-Yu Lu, Po-Ting Chen, Hui-Che Hsu, Sin-Ye Jhong, Wen-Huang Cheng, Yung-Yao Chen | ![Area](https://img.shields.io/badge/Area-3D--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Training--Free-8b5e3c) ![Level](https://img.shields.io/badge/Level-LLM-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Eviction-c2416c) <br> ![Target](https://img.shields.io/badge/Target-KV%20Cache-0d9488) ![Note](https://img.shields.io/badge/Note-Streaming-white)|
+| ![PDF](https://img.shields.io/badge/AAAI-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2511.09883-b31b1b)](https://arxiv.org/abs/2511.09883) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/lihengzhang02/HCC-3D) <br> **HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models** <br> Liheng Zhang, Jin Wang, Hui Li, Bingfeng Zhang, Weifeng Liu | ![Area](https://img.shields.io/badge/Area-3D--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Post--Training-8b5e3c) ![Level](https://img.shields.io/badge/Level-Projector-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Resamp-2f9e44) ![Target](https://img.shields.io/badge/Target-Token-0d9488) |
 
 </details>
 
@@ -210,7 +209,7 @@ If you find our paper of this resource helpful, please consider cite:
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
 | ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2602.23734-b31b1b)](https://arxiv.org/abs/2602.23699) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/EIT-NLP/UTPTrack) <br> **UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking** <br> Hao Wu, Xudong Wang, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen | ![Area](https://img.shields.io/badge/Area-Vision--Encoder-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Retraining-8b5e3c) ![Level](https://img.shields.io/badge/Level-Encoder-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-Token-0d9488)| 
-
+| ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2508.13305-b31b1b)](https://arxiv.org/abs/2508.13305) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/MinhaoXiong/Prune2Drive) <br> **Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving** <br> Minhao Xiong, Zichen Wen, Zhuangcheng Gu, Xuyang Liu, Rui Zhang, Hengrui Kang, Jiabing Yang, Junyuan Zhang, Weijia Li, Conghui He, Yafei Wang, Linfeng Zhang | ![Area](https://img.shields.io/badge/Area-3D--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Training--Free-8b5e3c) ![Level](https://img.shields.io/badge/Level-LLM-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Div--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-Token-0d9488) |
 
 </details>
 
@@ -259,7 +258,7 @@ If you find our paper of this resource helpful, please consider cite:
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
-
+| ![PDF](https://img.shields.io/badge/ICCV-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2503.08101-b31b1b)](https://arxiv.org/abs/2503.08101) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/iseri27/tg_gbc) <br> **Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning** <br> Lizhen Xu, Xiuxiu Bai, Xiaojun Jia, Jianwu Fang, Shanmin Pang | ![Area](https://img.shields.io/badge/Area-3D--Decoder-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-Training--Free-8b5e3c) ![Level](https://img.shields.io/badge/Level-Decoder-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-KV-0d9488) |
 
 
 </details>
